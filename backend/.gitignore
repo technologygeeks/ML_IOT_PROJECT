@@ -32,3 +32,5 @@ node_modules/
 # Backup and temp files
 *.bak
 *.tmp
+# in /backend/.gitignore
+firebaseServiceAccount.json
